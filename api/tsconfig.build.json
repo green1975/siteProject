@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "../out-tsc/build",
+    "baseUrl": "./",
+    "tartget": "es5",
+    "module": "commonjs",
+    "types": [],
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
